@@ -1,4 +1,8 @@
+sed -i 's|href="http|target="_blank" href="http|g' index.html
+
 # html
+
+
 
 <a href="example.com" target="_blank">I will open in a new tab</a>
 
