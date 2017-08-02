@@ -1,11 +1,6 @@
-sed -i 's|href="http|target="_blank" href="http|g' index.html
-
-# html
-
-
-
-<a href="example.com" target="_blank">I will open in a new tab</a>
-
-[link{options}](http://kramdown.gettalong.org/syntax.html) 
-
-<p>This is <a href="http://example.com" target="_blank">a link</a>
+# Topic 1
+## Topic 2
+### Topic 3
+#### Topic 4
+##### Topic 5
+###### Topic 6
